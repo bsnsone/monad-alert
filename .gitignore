@@ -1,0 +1,13 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+.env
+
+# Railway config
+railway.json
+
+# Sensitive files (e.g., session data)
+session_name.session
